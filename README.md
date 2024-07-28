@@ -20,7 +20,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/your-repository.git](https://github.com/pradeeshkumareu/Object-detection--ID-Card.git)
+git clone [https://github.com/Gopi-04/id-card-detection/edit/main/README.md]
 Install Dependencies:
 Ensure you have the required libraries installed. You can install them using pip:
 
@@ -56,7 +56,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For questions or support, please contact: pradeeshkumareu@gmail.com
+For questions or support, please contact: pvgopi04@gmail.com
 
 
 
@@ -72,7 +72,6 @@ For questions or support, please contact: pradeeshkumareu@gmail.com
 Captured face when person not wearing Idcard :
 
 
-![face_capturing](https://github.com/user-attachments/assets/53d8452a-93cf-454e-913e-ed8d86301ff3)
 
 
 
@@ -86,4 +85,3 @@ Captured face when person not wearing Idcard :
 Detecting ID card :
 
 
-![with_id_card](https://github.com/user-attachments/assets/3ca65788-4df6-4071-ae1b-71b34df620fc)
