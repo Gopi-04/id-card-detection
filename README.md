@@ -46,7 +46,7 @@ Download the pre-trained YOLO model (`id_card_v5.pt`) from the provided source o
 Execute the script using Python:
 
 ```bash
-python your_script_name.py
+python id_card_v5.pt
 ```
 
 ### View Results
