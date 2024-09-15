@@ -52,8 +52,3 @@ python id_card_v5.pt
 ### View Results
 
 The webcam feed will open in a window displaying detected ID cards, bounding boxes, confidence scores, and calculated distances.
-
-## Configuration
-
-- **Confidence Threshold:** Adjust the `confidence_threshold` variable in the script to filter detections based on confidence level.
-- **Camera Calibration:** Ensure proper calibration of your webcam for accurate distance measurements.
