@@ -17,7 +17,6 @@ This project demonstrates an application of YOLO (You Only Look Once) for real-t
 - **Python:** Programming language used for scripting.
 - **Ultralytics YOLO:** YOLO model for object detection.
 - **OpenCV:** Library for image processing and video capture.
-- **NumPy:** Library for numerical operations.
 
 ## Getting Started
 
