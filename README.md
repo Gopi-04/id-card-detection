@@ -51,3 +51,7 @@ python id_card_v5.pt
 ### View Results
 
 The webcam feed will open in a window displaying detected ID cards, bounding boxes, confidence scores, and calculated distances.
+
+# Contact
+
+For any questions or feedback, please contact me at [pvgopi04@gmail.com](mailto:pvgopi04@gmail.com).
